@@ -3239,7 +3239,7 @@ nav#desktop-nav li.has-child-menu:hover ul.thired-level {
   flex: 3;
 }
 .service-box1 .service-box-content h3 {
-  font-size: 22px;
+  font-size: 16px;
   margin-bottom: 10px;
 }
 @media (min-width: 992px) and (max-width: 1199px) {
@@ -3269,7 +3269,7 @@ nav#desktop-nav li.has-child-menu:hover ul.thired-level {
 }
 .service-box1 .service-box-icon i {
   color: #fdc800;
-  font-size: 36px;
+  font-size: 30px;
   -webkit-transform: scale(1);
   transform: scale(1);
   -webkit-transition: all 0.5s ease-out;
